@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏🏼, I'm Ayush Kumar Singh</h1>
-<h3 align="center">18 Years Old Developer From India</h3>
+<h3 align="center">18M Developer From India</h3>
 
 I am currently a freshman engineering student at Maharaja Surajmal Institute of Technology. My major is Electronics and Communication Engineering. I have a keen interest in free and open-source software and hope to contribute to them.
 

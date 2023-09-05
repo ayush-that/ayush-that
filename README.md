@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
-<h3 align="center">A passionate rookie developer from India</h3>
+<h3 align="center">A rookie developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link](https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link)
+- 🖼 All of my graphic designing are available at [https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link](https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link)
 
-- 💬 Ask me about **linux, git and python**
-
+- 💬 Ask me about **Linux, git and python**
 - 📫 How to reach me **ayush1337@hotmail.com**
-
-- ⚡ Fun fact **I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

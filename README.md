@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ayush Kumar Singh</h1>
+<h1 align="center">Namaste 🙏🏼, I'm Ayush Kumar Singh</h1>
 <h3 align="center">A rookie developer from India</h3>
 
-i. 🖼 All of my graphic designing are available at [https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link](https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link)
-ii. 💬 Ask me about **Linux, git and python**
-iii. 📫 How to reach me **ayush1337@hotmail.com**
+1. 💬 Ask me about **Linux, Vim and Python**
+2. 📫 How to reach me **ayush1337@hotmail.com**
+3. 🖼 All of my graphic designing are available at [https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link](https://drive.google.com/drive/folders/1EP2JgQf5I1H8dRLVAsCUArVry725BROR?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

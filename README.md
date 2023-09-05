@@ -1,9 +1,10 @@
-<h1 align="center">Namaste 🙏🏼, I'm Ayush Kumar Singh</h1>
-<h3 align="center">18M Developer From India</h3>
+<h1 align="center">
+  Namaste 🙏🏼, I'm Ayush Kumar Singh
+</h1>
+
+*I am an 18-year-old aspiring software developer from India. Currently, I'm a B.Tech ECE 1st year student at Maharaja Surajmal Institute of Technology, Delhi. I am looking forward to building tech skills and contributing to open-source*.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-that&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-*I am currently a B.Tech ECE 1st year student at Maharaja Surajmal Institute of Technology, Delhi. I am looking forward to building tech skills and contributing to open-source*.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fitlesshot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-that) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BiharanInDelhi) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/cs_radio) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ewwyush) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC-WUuRdcxwhCD4v9aaOjtNQ) 

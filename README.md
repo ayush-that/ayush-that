@@ -2,7 +2,7 @@
   Namaste 🙏🏼, I'm Ayush Kumar Singh
 </h1>
 
-*I am an 18-year-old aspiring software developer from India. Currently, I'm a B.Tech IT 1st year student at BVCOE, New Delhi. I am looking forward to building tech skills and contributing to open-source*.
+*I am an 20-year-old aspiring software developer from India. Currently, I'm a B.Tech IT 1st year student at BVCOE, New Delhi. I am looking forward to building tech skills and contributing to open-source*. I use Arch BTW.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-that&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

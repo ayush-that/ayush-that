@@ -67,5 +67,5 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) 
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white)
-
+---
 [![](https://visitcount.itsvg.in/api?id=ayush-that&icon=0&color=0)](https://visitcount.itsvg.in)

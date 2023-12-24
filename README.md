@@ -6,7 +6,10 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-that&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💬 Socials:
+<h3 align="center">
+My Socials:
+</h3>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fitlesshot) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-that) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BiharanInDelhi) 
@@ -14,7 +17,10 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushdotpro) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC-WUuRdcxwhCD4v9aaOjtNQ) 
 
-## 👨‍💻 Tech Stack:
+<h3 align="center">
+Languages/Tools I Know:
+</h3>
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) 

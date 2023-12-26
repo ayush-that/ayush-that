@@ -4,7 +4,7 @@
 
 *I am a 20-year-old software developer from India. I'm a B.Tech IT 1st year student at BVCOE, New Delhi. I am committed to building tech skills and contributing to open-source. I use Arch BTW.*
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-that&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-that&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <h3 align="center">
 My Socials:
@@ -74,4 +74,4 @@ Languages/Tools I Know:
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi) 
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white)
 ---
-[![](https://visitcount.itsvg.in/api?id=ayush-that&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ayush-that&icon=0&color=12)](https://visitcount.itsvg.in)

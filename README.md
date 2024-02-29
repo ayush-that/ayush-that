@@ -21,6 +21,9 @@ My Socials:
 Languages/Tools I Know:
 </h3>
 
+[![An image of @ayushthat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushthat)](https://holopin.io/@ayushthat)
+
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=plastic&logo=haskell&logoColor=white) 

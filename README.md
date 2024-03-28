@@ -2,7 +2,7 @@
   Namaste 🙏🏼, I'm Ayush Singh
 </h1>
 
-I am an 18-year-old software developer from India. I am committed to using my tech skills to contribute to open-source. I use Arch BTW.
+I am a 19-year-old software developer from India. I am committed to using my tech skills to contribute to open-source. I use Arch BTW.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-that&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />

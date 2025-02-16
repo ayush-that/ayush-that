@@ -7,4 +7,5 @@
 - [x] Week 3: 15/01/25 - 21/01/25 => Ultimate Web Scraper | 📄[Repo](https://github.com/ayush-that/scraper-collection)
 - [x] Week 4: 22/01/25 - 28/01/25 => CareDaddyStore | 📄[Repo](https://github.com/ayush-that/CareDaddyStore) | 📄[Live](https://shopwe.xyz/)
 - [ ] Week 5: 29/01/25 - 04/02/25 => I was in IIT Roorkee 😭
-- [ ] Week 6: 05/02/25 - 11/02/25 => Thinking...☁️
+- [x] Week 6: 05/02/25 - 11/02/25 => Email RAG Chat | 📄[Repo](https://github.com/ayush-that/email-ai-agent)
+- [ ] Week 7: 12/02/25 - 18/02/25 => Thinking...☁️
